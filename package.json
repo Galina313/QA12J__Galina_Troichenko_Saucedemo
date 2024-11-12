@@ -1,0 +1,15 @@
+{
+  "name": "qa12j__galina_troichenko_saucedemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Galina",
+    "Troichenko"
+  ],
+  "author": "Galina Troichenko",
+  "license": "ISC",
+  "description": ""
+}
